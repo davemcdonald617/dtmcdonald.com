@@ -1,0 +1,85 @@
+/*  
+David McDonald
+February 9, 2021
+Assignment 3
+Purpose: POST vs GET.
+*/
+
+body{
+    background-color: rgb(247, 245, 242);
+}
+
+h1{
+    color: rgb(4, 20, 236);
+}
+
+h2{
+color: rgb(78, 78, 247);
+}
+
+legend{
+    font-weight: 700;
+    font-size: x-large;
+    color: rgb(78, 78, 247);
+    border-radius: 15px;
+}
+
+input{
+    padding: 5 5 5 5;
+    /* display: block; */
+    border-radius: 7px;
+}
+
+label{
+    padding: 5 5 5 5;
+    margin: 5 5 5 5;
+
+}
+
+fieldset{
+    border: 3px solid gray;
+    margin-right: 50em;
+    border-radius: 15px;
+}
+
+#postMsg, #getMsg{
+    border: 3px solid gray;
+    margin-right: 50em;
+    border-radius: 15px;
+    padding: 5 5 5 5;
+}
+
+.info{
+    margin: 5 5 5 5;
+    padding: 5 5 5 5;
+    border: 3px solid gray;
+    border-radius: 15px;
+
+}
+
+button{
+    margin: 10 10 10 10;
+    color:rgb(117, 117, 231);
+    border: 3px solid;
+    border-radius: 7px;
+}
+
+button:hover, #submit:hover{
+   color:blue; 
+}
+
+#buttons{
+    border: 3px solid gray;
+    margin-right: 50em;
+    border-radius: 15px;
+    padding: 5 5 5 5;
+}
+
+#submit{
+    border-radius: 15px;
+    padding: 5 5 5 5;
+    color:rgb(117, 117, 231);
+    border: 3px solid;
+    border-radius: 7px;
+}
+
